@@ -6,7 +6,7 @@ The most critical component of accomplishment in the system is an effective empl
 
 # Dataset
 This dataset used in this research is publicly available. The dataset consists of employee’s information like (employee id - employee record date (year of data) - birth date hire - age - length of service - city - department ). The data contains 49653 instances with 18 variables. 
-The dataset can be found at Kaggle. 
+The dataset can be found at Kaggle. "https://www.kaggle.com/HRAnalyticRepository/employee-attrition-data"
 Logistic Regression and Random Forest will be used to fit a model and compare for these two classification methods, which one is the better.
 
 # Tools
