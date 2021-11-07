@@ -1,0 +1,13 @@
+# MVP of Employee Termination Prediction
+In this folder, the Minimum Viable Product (MVP) is provided.
+The initial steps in detail are provided in the Jupyter notebook. 
+
+# The MVP notebook summarizes the following: 
+1- Explore the features
+2- Drop unnecessary coloumns
+3- Drop all columns not available before termination
+4- Split df into X and Y
+5- Train - test split
+
+# There are one more step to finish the project:
+Use different machine learning algorithm like random forest, knn, ...
