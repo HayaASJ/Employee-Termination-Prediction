@@ -26,3 +26,4 @@ Accuracy: 100%
 2- Scikit-learn for modeling 
 
 ### Communication
+The slides are provided [here](https://github.com/HayaASJ/Employee-Termination-Prediction/blob/main/Project%20Presentation.pdf).
