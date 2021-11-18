@@ -1,4 +1,4 @@
-# Employee-Termination-Prediction
+# Employee Termination Prediction
 ##### Haya Adnan Jalal
 
 ### Abstract
