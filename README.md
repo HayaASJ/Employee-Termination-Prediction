@@ -19,7 +19,7 @@ The dataset can be found at Kaggle [here](https://www.kaggle.com/HRAnalyticRepos
 2- Drop all columns not available before termination
 3- Train-test split 
 
-## Models
+#### Models
 Logistic Regression was used to predict the termination, with Accuracy 100%. The model was trained on a 70/30 train vs. test. 
 So, the result is:
 Accuracy: 100%
